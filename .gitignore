@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Build and distrubution directories
+build/
+dist/
+
+# Enviroment variable files
+.env 
+
+# Temporaty files 
+*.swp
+*.swo
+
+# log files
+*.log 
+
+# System-specific files
+.DS_Store
+Thumbs.db 
+
+# Other unwanted files
+*.zone.identifier
