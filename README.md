@@ -56,3 +56,4 @@ Feel free to submit issues, feature requests, or pull requests. Contributions ar
 
 ## License
 
+This project is licensed under the MIT License.
